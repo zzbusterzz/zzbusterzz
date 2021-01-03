@@ -1,8 +1,3 @@
-
-
-
-<img src="https://raw.githubusercontent.com/zzbusterzz/zzbusterzz/main/GIFs%20from%20Outer%20Space%2C%20Coming%20Soon%20to%20a%20Wall%20Near%20You.gif?raw=true" />
-
 ### Hi there! I'm Mangirish 👋
 
 ## About Me
@@ -33,7 +28,7 @@
 
 <!--
 **zzbusterzz/zzbusterzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://raw.githubusercontent.com/zzbusterzz/zzbusterzz/main/GIFs%20from%20Outer%20Space%2C%20Coming%20Soon%20to%20a%20Wall%20Near%20You.gif?raw=true" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
