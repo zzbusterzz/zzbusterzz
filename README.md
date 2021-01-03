@@ -14,7 +14,9 @@
 [<img align="left" alt="Mangirish Naik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mangirish Naik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 
+##
 ---
 
 ![Mangirish's Github Stats](https://github-readme-stats.vercel.app/api?username=zzbusterzz&show_icons=true&theme=radical)
