@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there! I'm Mangirish 👋
+
+## About Me
+- 🌱 I’m currently learning Deep Learning And Data Mining
+- 💬 Ask me about Unity3D and Game Engines
+- 📫 You can contact me on naikmangirish@gmail.com
+- 📖 I read Web novels, Manhua and Mangas in my free time 
+
+## Connect with me:
+
+[<img align="left" alt="coding4noobs.wordpress.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][website]
+[<img align="left" alt="Mangirish Naik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-twitter@1.1.3/twitter.svg" />][twitter]
+[<img align="left" alt="Mangirish Naik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mangirish Naik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mangirish Naik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 ---
@@ -25,3 +39,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[website]: https://coding4noobs.wordpress.com
+[twitter]: https://twitter.com/mnaik26
+[facebook]: https://www.facebook.com/mangirish.naik
+[instagram]: https://www.instagram.com/killer_mech
+[linkedin]: https://www.linkedin.com/in/mangirishnaik
