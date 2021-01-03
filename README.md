@@ -6,7 +6,7 @@
 - 📫 You can contact me on naikmangirish@gmail.com
 - 📖 I read Web novels, Manhua and Mangas in my free time 
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="coding4noobs.wordpress.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][website]
 [<img align="left" alt="Mangirish Naik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-twitter@1.1.3/twitter.svg" />][twitter]
@@ -14,7 +14,6 @@
 [<img align="left" alt="Mangirish Naik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mangirish Naik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
 
 ##
 ---
