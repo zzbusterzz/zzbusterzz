@@ -14,13 +14,13 @@
 [<img align="left" alt="Mangirish Naik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mangirish Naik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-
-###
+---
 
 ![Mangirish's Github Stats](https://github-readme-stats.vercel.app/api?username=zzbusterzz&show_icons=true&theme=radical)
 
 ![Mangirish's Github Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzbusterzz&layout=compact&theme=radical)
 
+---
 
 
 <!--
