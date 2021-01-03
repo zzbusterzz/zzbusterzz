@@ -1,4 +1,7 @@
-<body background='https://github.com/zzbusterzz/zzbusterzz/blob/main/GIFs%20from%20Outer%20Space%2C%20Coming%20Soon%20to%20a%20Wall%20Near%20You.gif'>
+
+
+
+<img src="https://raw.githubusercontent.com/zzbusterzz/zzbusterzz/main/GIFs%20from%20Outer%20Space%2C%20Coming%20Soon%20to%20a%20Wall%20Near%20You.gif?raw=true" />
 
 ### Hi there! I'm Mangirish 👋
 
@@ -49,5 +52,3 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/mangirish.naik
 [instagram]: https://www.instagram.com/killer_mech
 [linkedin]: https://www.linkedin.com/in/mangirishnaik
-
-</body>
