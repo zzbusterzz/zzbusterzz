@@ -1,7 +1,6 @@
 ### Hi there! I'm Mangirish 👋
 
 ## About Me
-- 🌱 I’m currently learning Deep Learning And Data Mining
 - 💬 Ask me about Unity3D and Game Engines
 - 📫 You can contact me on naikmangirish@gmail.com
 - 📖 I read Web novels, Manhua and Mangas in my free time 
